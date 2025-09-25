@@ -1,0 +1,30 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "deploy_options": {
+        "flash_offset": "0"
+    },
+    "docs": "https://freenove.com/fnk0085",
+    "features": [
+        "BLE",
+        "Camera",
+        "External Flash",
+        "External RAM",
+        "microSD",
+        "RGB LED",
+        "USB-C",
+        "WiFi"
+    ],
+    "images": [
+        "freenove_esp32s3_cam.png"
+    ],
+    "mcu": "esp32s3",
+    "product": "ESP32S3_CAM",
+    "thumbnail": "",
+    "url": "https://store.freenove.com/products/fnk0085",
+    "vendor": "Freenove",
+    "variants": {
+        "N16R8": "Board with ESP32S3-WROOM-1-N16R8 module"
+    }
+}
